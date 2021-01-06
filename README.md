@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Spadelpu as Web Development
 - 🌱 I’m currently learning Full Stack Web Devlopment, Data Structures & Algorithms, Google Cloud.
 - 👯 I’m looking to collaborate on Open Source cloud and web Projects.
-<!--- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web & Cloud related stuffs!
-<!--- 📫 How to reach me: ... -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to attend Technical Meetups and Conference for Learning and Networking
 

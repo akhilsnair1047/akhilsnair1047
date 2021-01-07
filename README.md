@@ -9,7 +9,7 @@
 
 Know about me :
 
-- 🔭 I’m currently working at Spadelpu as Web Development
+- 🔭 I’m currently working at Spadelpu as Web Developer
 - 🌱 I’m currently learning Full Stack Web Devlopment, Data Structures & Algorithms, Google Cloud.
 - 👯 I’m looking to collaborate on Open Source cloud and web Projects.
 - 💬 Ask me about Web & Cloud related stuffs!

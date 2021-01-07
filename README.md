@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Akhil S Nair, Front-end Developer @SpadeLPU | Competitive Programmer | Cloud Enthusiast!
+### I'm Akhil S Nair, Front-end Developer @SpadeLPU | Competitive Programmer | Cloud & ML Enthusiast!
 
 [![Linkedin Badge](https://img.shields.io/badge/-akhilsnair1047-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-s-nair-2a89b3190/)](https://www.linkedin.com/in/akhil-s-nair-2a89b3190/) [![Facebook Badge](https://img.shields.io/badge/-@akhilsnair1047-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/akhilsnair1047) [![Instagram Badge](https://img.shields.io/badge/-@__akhil_nair__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/__akhil_nair__)](https://www.instagram.com/__akhil_nair__/)<!--[![Twitter Badge](https://img.shields.io/badge/-@akhilsnair1047-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)  
 **akhilsnair1047/akhilsnair1047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

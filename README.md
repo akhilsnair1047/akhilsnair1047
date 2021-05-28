@@ -1,8 +1,15 @@
-### Hi there 👋
-### I'm Akhil S Nair, Assit Head of Web Developer @SpadeEMS | Competitive Programmer | Cloud & ML Enthusiast!
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Akhil S Nair](https://github.com/akhilsnair1047/)
+### Assit Head of Web Developer @SpadeEMS | Competitive Programmer | Cloud & ML Enthusiast!
 
-<!--[![Linkedin Badge](https://img.shields.io/badge/-akhilsnair1047-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-s-nair-2a89b3190/)](https://www.linkedin.com/in/akhil-s-nair-2a89b3190/) -->
-[![Facebook Badge](https://img.shields.io/badge/-@akhilsnair1047-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/akhilsnair1047) [![Instagram Badge](https://img.shields.io/badge/-@__akhil_nair__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/__akhil_nair__)](https://www.instagram.com/__akhil_nair__/)<!--[![Twitter Badge](https://img.shields.io/badge/-@akhilsnair1047-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)  
+
+[<img height="30" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+![alt text](https://github.com/akhilsnair1047/akhilsnair1047/blob/main/dino.png) 
+
+<!--[![Linkedin Badge](https://img.shields.io/badge/-akhilsnair1047-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-s-nair-2a89b3190/)](https://www.linkedin.com/in/akhil-s-nair-2a89b3190/) 
+[![Facebook Badge](https://img.shields.io/badge/-@akhilsnair1047-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/akhilsnair1047) [![Instagram Badge](https://img.shields.io/badge/-@__akhil_nair__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/__akhil_nair__)](https://www.instagram.com/__akhil_nair__/)[![Twitter Badge](https://img.shields.io/badge/-@akhilsnair1047-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)  
 **akhilsnair1047/akhilsnair1047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
  #### ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Google%20Cloud-%7C-orange) 
@@ -25,5 +32,17 @@ Know about me :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsnair1047)](https://github.com/akhilsnair1047/github-readme-stats)
+[![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsnair1047&count_private=true&theme=radical&hide=issues&show_icons=true)
+](https://github.com/akhilsnair1047/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[twitter]: https://twitter.com/__akhil_nair__
+[youtube]: https://youtube.com/akhilsnair1047
+[gmail]: https://akhilsnair1047@gmail.com
+[linkedin]: https://www.linkedin.com/in/akhil-s-nair-2a89b3190/
+[Facebook]: https://www.facebook.com/akhilsnair1047
+
+
+
+
 

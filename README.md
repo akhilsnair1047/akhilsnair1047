@@ -33,7 +33,7 @@ Know about me :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 [![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsnair1047&count_private=true&theme=radical&hide=issues&show_icons=true)
-](https://github.com/akhilsnair1047/github-readme-stats)
+](https://github-readme-stats.vercel.app/api?username=akhilsnair1047&count_private=true&theme=radical&hide=issues&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [twitter]: https://twitter.com/__akhil_nair__

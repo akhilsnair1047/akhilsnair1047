@@ -6,7 +6,7 @@
 [<img height="30" src = "https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-![alt text](https://github.com/akhilsnair1047/akhilsnair1047/blob/main/1.png) 
+![alt text](https://github.com/akhilsnair1047/akhilsnair1047/blob/main/404.gif) 
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-akhilsnair1047-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-s-nair-2a89b3190/)](https://www.linkedin.com/in/akhil-s-nair-2a89b3190/) 
 [![Facebook Badge](https://img.shields.io/badge/-@akhilsnair1047-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/akhilsnair1047) [![Instagram Badge](https://img.shields.io/badge/-@__akhil_nair__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/__akhil_nair__)](https://www.instagram.com/__akhil_nair__/)[![Twitter Badge](https://img.shields.io/badge/-@akhilsnair1047-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)  

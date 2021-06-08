@@ -37,7 +37,7 @@ Know about me :
 
 [![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsnair1047&count_private=true&theme=radical&hide=issues&show_icons=true)
 ](https://github-readme-stats.vercel.app/api?username=akhilsnair1047&count_private=true&theme=radical&hide=issues&show_icons=true)
-<img src="https://i2.wp.com/boingboing.net/wp-content/uploads/2014/05/zed-horse-b-800-.gif" width="400"  />
+<img src="https://i2.wp.com/boingboing.net/wp-content/uploads/2014/05/zed-horse-b-800-.gif" width="300"  />
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->

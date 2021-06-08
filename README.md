@@ -5,8 +5,11 @@
 [<img height="30" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+<!-- 
+![alt text](https://github.com/akhilsnair1047/akhilsnair1047/blob/main/404.gif)  -->
 
-![alt text](https://github.com/akhilsnair1047/akhilsnair1047/blob/main/404.gif) 
+<!-- ![alt text](https://i2.wp.com/boingboing.net/wp-content/uploads/2014/05/zed-horse-b-800-.gif?resize=720%2C408)  -->
+![alt text](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif) 
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-akhilsnair1047-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-s-nair-2a89b3190/)](https://www.linkedin.com/in/akhil-s-nair-2a89b3190/) 
 [![Facebook Badge](https://img.shields.io/badge/-@akhilsnair1047-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/akhilsnair1047) [![Instagram Badge](https://img.shields.io/badge/-@__akhil_nair__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/__akhil_nair__)](https://www.instagram.com/__akhil_nair__/)[![Twitter Badge](https://img.shields.io/badge/-@akhilsnair1047-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)  
@@ -34,6 +37,9 @@ Know about me :
 
 [![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsnair1047&count_private=true&theme=radical&hide=issues&show_icons=true)
 ](https://github-readme-stats.vercel.app/api?username=akhilsnair1047&count_private=true&theme=radical&hide=issues&show_icons=true)
+<img src="https://i2.wp.com/boingboing.net/wp-content/uploads/2014/05/zed-horse-b-800-.gif" width="400"  />
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [twitter]: https://twitter.com/__akhil_nair__

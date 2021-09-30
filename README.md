@@ -3,7 +3,7 @@
 
 
 [<img height="30" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white">][Instagram] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <!-- 
 ![alt text](https://github.com/akhilsnair1047/akhilsnair1047/blob/main/404.gif)  -->
@@ -47,6 +47,7 @@ Know about me :
 [gmail]: https://akhilsnair1047@gmail.com
 [linkedin]: https://www.linkedin.com/in/akhil-s-nair-2a89b3190/
 [Facebook]: https://www.facebook.com/akhilsnair1047
+[Instagram]: https://www.instagram.com/__akhil_nair__/
 
 
 

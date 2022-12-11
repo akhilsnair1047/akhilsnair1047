@@ -1,5 +1,5 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Akhil S Nair](https://github.com/akhilsnair1047/)
-# Hi I'm Akhil S Nair
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Akhil S Nair
+<!-- # Hi I'm Akhil S Nair -->
 ### Intern @juspay | Community Lead @intellpu | Competitive Programmer | Cloud & ML Enthusiast!
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]

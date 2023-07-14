@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Akhil S Nair
 <!-- # Hi I'm Akhil S Nair -->
-### Intern @juspay | Community Lead @intellpu | Competitive Programmer | Cloud & ML Enthusiast!
+### Backend Developer @juspay | Community Lead @intellpu | Competitive Programmer | Cloud & ML Enthusiast!
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" />][twitter]
@@ -21,8 +21,8 @@
 
 Know about me :
 
-- 🔭 I’m currently the community lead of IntelLPU as well as working as a intern at Juspay
-- 🌱 I’m currently learning Full Stack Web Devlopment, Data Structures & Algorithms, Google Cloud.
+- 🔭 I’m currently the community lead of IntelLPU as well as working as a Backend Developer at Juspay
+- 🌱 I’m currently learning Full Stack Web Development, Data Structures & Algorithms, Google Cloud.
 - 👯 I’m looking to collaborate on Open Source cloud and web Projects.
 - 💬 Ask me about Web & Cloud related stuffs!
 - 😄 Pronouns: He/His
